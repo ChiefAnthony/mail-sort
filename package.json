@@ -4,6 +4,8 @@
     "dev": "bun run --hot src/index.ts"
   },
   "dependencies": {
+    "dotenv": "^16.4.7",
+    "googleapis": "^148.0.0",
     "hono": "^4.7.4"
   },
   "devDependencies": {
